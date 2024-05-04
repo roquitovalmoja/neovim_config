@@ -1,2 +1,2 @@
 # neovim_config
-My Neovim configurations mostly forked my josean-dev with a little changes
+My Neovim configurations mostly forked from josean-dev with a little changes.
