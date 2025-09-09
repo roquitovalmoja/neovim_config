@@ -1,6 +1,13 @@
 return {
   "folke/tokyonight.nvim",
   priority = 1000,
+  -- opts = {
+  --   transparent_mode = true,
+  --   styles = {
+  --     sidebars = "transparent",
+  --     floats = "transparent",
+  --   },
+  -- },
   config = function()
     local bg = "#011628"
     local bg_dark = "#011423"
