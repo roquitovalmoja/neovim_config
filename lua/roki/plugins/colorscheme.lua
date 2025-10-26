@@ -8,6 +8,7 @@ return {
   --     floats = "transparent",
   --   },
   -- },
+
   config = function()
     local bg = "#011628"
     local bg_dark = "#011423"
